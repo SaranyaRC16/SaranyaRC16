@@ -231,7 +231,7 @@
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-0+-orange?style=for-the-badge" alt="Years"/>
+<img src="https://img.shields.io/badge/📅_Years_Active-1+-orange?style=for-the-badge" alt="Years"/>
 </td>
 </tr>
 </table>
